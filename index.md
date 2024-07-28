@@ -7,3 +7,13 @@
 
 Add a image with Markdown
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Example 1 of a code block with Markdown
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+Example 2 of a code block with Markdown
+``` javascript
+var myVar = "Hello, world!";
+```
