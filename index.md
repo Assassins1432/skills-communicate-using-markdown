@@ -5,4 +5,5 @@
 ##### Test H5 with markdown
 ###### Test H6 with markdown
 
-Aprendiendo Markdown
+Add a image with Markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
