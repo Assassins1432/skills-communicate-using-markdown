@@ -17,3 +17,9 @@ Example 2 of a code block with Markdown
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Add a task list with Markdown
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [x] Edit index.md and add a task list
